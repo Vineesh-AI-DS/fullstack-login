@@ -12,7 +12,8 @@
 } */
 
 .form-signup {
-    background-color: rgb(186, 202, 239);
+    background-color: black;
+    color:white;
     padding: 2rem;
     margin: 2rem auto;
     border-radius: 5px;
@@ -56,7 +57,7 @@ form button {
     padding-left: 5.5em;
     display: flex;
     gap: 5px;
-    
+    color: white;    
 }
 
 .login {
